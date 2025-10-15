@@ -1,43 +1,45 @@
-## Hi there 👋, I'm Harshit Sinha
+<h2 align="left">Hi 👋! My name is Harshit Sinha, and I'm a Computer Science Student from India</h2>
 
-Welcome to my GitHub profile! 🚀  
+###
 
-I'm a **Computer Science student** passionate about **programming, web development, and AI/ML projects**. I love building projects that solve real-world problems and contribute to the open-source community.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitsinha27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshitsinha27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🔭 I’m currently working on
-- Developing **projects in Python and Java**  
-- Building a **virtual concert ticket finder** project  
-- Improving my **data structures & algorithms skills**  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🌱 I’m currently learning
-- Advanced **Machine Learning & AI** concepts  
-- **Cloud technologies** and **DevOps**  
-- Open-source collaboration best practices  
+###
 
-### 👯 I’m looking to collaborate on
-- **Open-source projects** related to Python, ML, and web development  
-- Innovative **college or community projects** that make an impact  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
-### 💬 Ask me about
-- Python, Java, C++ programming  
-- Data Science, Machine Learning, and AI  
-- Web Development and Full-Stack projects  
+###
 
-### 📫 How to reach me
-- Email: **your-email@example.com**  
-- LinkedIn: [linkedin.com/in/harshitsinha](https://www.linkedin.com/in/harshitsinha)  
-- Portfolio: [shekhardesigns.my.canva.site/shekhar-sportfolio](https://shekhardesigns.my.canva.site/shekhar-sportfolio)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
 
-### ⚡ Fun facts
-- Long-distance traveler 🌍  
-- College life vlogger 📹  
-- Coffee enthusiast ☕  
-- Lifelong learner and problem solver 💡  
+###
 
----
+<br clear="both">
 
-### 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitsinha27&show_icons=true&theme=radical)
-
+<img src="https://raw.githubusercontent.com/Harshitsinha27/Harshitsinha27/output/snake.svg" alt="Snake animation" />
