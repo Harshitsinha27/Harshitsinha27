@@ -27,12 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitsinha27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 🏆 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/procoder01?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/hasrhit_sinha_27/)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Harshitsinha27&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
