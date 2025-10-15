@@ -31,6 +31,8 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/procoder01?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/hasrhit_sinha_27/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshu-shekhar01&icon=1&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Harshitsinha27&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
