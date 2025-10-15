@@ -21,9 +21,11 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshu-shekhar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himanshu-shekhar01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-shekhar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=Harshitsinha27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshitsinha27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitsinha27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 🏆 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/procoder01?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/hasrhit_sinha_27/)
