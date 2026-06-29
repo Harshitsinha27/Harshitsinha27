@@ -25,7 +25,7 @@
 - Power BI
 - Python for Data Science
 
-🚀 Solved **200+ LeetCode Problems**
+🚀 Solved **160+ LeetCode Problems**
 
 📫 Reach me:
 **harshitsinha27@gmail.com**
@@ -47,8 +47,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -116,29 +114,12 @@ Java project implementing Object-Oriented Programming concepts.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Harshitsinha27&theme=onedark&no-frame=true&margin-w=10)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Harshitsinha27&theme=tokyo-night)
-
----
-
 # ✍️ Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Harshitsinha27&label=Profile%20Views&color=0e75b6&style=flat)
-
----
 
 ### 💡 Motto
 
